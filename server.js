@@ -67,7 +67,7 @@ app.get('/mail-test', async (req, res) => {
 
     try {
 
-        const buyerId = 'ddoddony';
+        const buyerId = 'jsin369';
 
         const email = buyerId + '@naver.com';
 
